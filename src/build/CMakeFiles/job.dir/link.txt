@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjob.a  CMakeFiles/job.dir/job/job.c.o
+/usr/bin/ranlib libjob.a

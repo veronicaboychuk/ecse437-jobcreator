@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/jobcreator.dir/main.c.o  -o jobcreator libjob.a libutils.a 
